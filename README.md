@@ -8,3 +8,8 @@ pada saat program dirunning akan timbul pilihan pembeli dan admin, dimana penggu
 ![Screenshot (390)](https://github.com/Widiasaputri/postest-2-ice-creamm/assets/144817353/dc4ec5a8-d00f-42fa-938c-8112385fc82c)
 ![Screenshot (389)](https://github.com/Widiasaputri/postest-2-ice-creamm/assets/144817353/4e3fed10-5180-4fe8-ba67-969167ee1e72)
 dan jika anda memilih sebagai admin, anda akan diperlihatkan dengan list menu dan juga pilihan fitur yang dapat anda pilih. lalu jika anda memilih fitur pertama seperti contoh, program akan bertanya kepada anda menu apa yang ingin anda tambahkan lalu berapa harga menu tersebut dan juga ke berapa menu data tersebut. lalu data akan menambahkan data dan langsung memperlihatkan list menu yang telah ditambahkan. begitu juga jika anda memilih fitur 2 dan 3, tetapi jika anda memilih selain dari pada fitur yang disediakan program akan menampilkan "maaf, tidak ada dipilihan"
+# screenshot admin pilihan 2
+![Screenshot (391)](https://github.com/Widiasaputri/postest-2-ice-creamm/assets/144817353/28318ca1-70dd-4803-a260-7f573e52b3c3)
+# screenshot admin pilihan 3
+![Screenshot (392)](https://github.com/Widiasaputri/postest-2-ice-creamm/assets/144817353/2fda9c93-39b7-42a9-9712-aecad9df0668)
+
